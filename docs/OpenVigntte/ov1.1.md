@@ -24,8 +24,6 @@ ____
 KONE is a global industrial company (based in Finland) that manufactures mostly eleva- tors and escalators and also services over 1.1 million elevators, escalators, and related equipment in several countries. The company employs over 50,000 people.
 
 
-
-
 ## The problem…
 
 Over 1 billion people use the elevators and escalators manufactured and serviced by KONE every day. If equipment does not work properly, people may be late to work, can- not get home in time, and may miss important meetings and events. So, KONE’s objective is to minimize the downtime and users’ suffering.
