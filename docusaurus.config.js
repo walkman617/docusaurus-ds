@@ -42,11 +42,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: '课程资源',
+          title: '教学',
           items: [
             {
-              label: 'Tutorial',
+              label: '课程资源',
               to: '/docs/intro',
+            },
+            {
+              label: '教材链接',
+              href: 'https://www.pearson.com/us/higher-education/program/Sharda-Analytics-Data-Science-Artificial-Intelligence-Systems-for-Decision-Support-11th-Edition/PGM2067063.html',
             },
           ],
         },
@@ -54,16 +58,16 @@ module.exports = {
           title: '实践',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'IBM Academic Initiative',
+              href: 'https://www.ibm.com/academic/home',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'IBM Skills Academy',
+              href: 'https://skills-academy.comprehend.ibm.com/?r',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Design Thinking',
+              href: 'https://www.ibm.com/design/thinking/',
             },
           ],
         },
