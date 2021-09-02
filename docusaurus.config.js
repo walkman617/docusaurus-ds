@@ -42,7 +42,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '课程资源',
           items: [
             {
               label: 'Tutorial',
@@ -51,7 +51,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: '实践',
           items: [
             {
               label: 'Stack Overflow',
@@ -68,20 +68,20 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: '更多',
           items: [
             {
-              label: 'Blog',
+              label: '作业与要求',
               to: '/blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/walkman617/DS2021',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 南开大学, 软件学院. Built with <a href="https://docusaurus.io/" target=_blank>Docusaurus</a>.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -96,13 +96,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/walkman617/docusaurus-ds/blob/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/walkman617/docusaurus-ds/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
