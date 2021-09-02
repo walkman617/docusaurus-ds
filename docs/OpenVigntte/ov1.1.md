@@ -20,7 +20,10 @@ sidebar_position: 1
 
 **Answer It**: [Click Here](http://nankai-cs.mikecrm.com/qi6ABxT)
 ![ov1.1](/img/ov/ov1.1.png)
-____
+
+
+***
+
 KONE is a global industrial company (based in Finland) that manufactures mostly eleva- tors and escalators and also services over 1.1 million elevators, escalators, and related equipment in several countries. The company employs over 50,000 people.
 
 
