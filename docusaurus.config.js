@@ -3,22 +3,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: '数据科学',
+  tagline: '南开大学软件学院《数据科学》课程平台',
+  url: 'https://ds.nkugame.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Nankai University', // Usually your GitHub org/user name.
+  projectName: 'DS2021', // Usually your repo name.
   i18n: {
     defaultLocale: "zh-Hans",
     locales: ["zh-Hans"]
   },
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: '课程首页',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -28,11 +28,11 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: '课程资源',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: '作业与要求', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/walkman617/DS2021',
           label: 'GitHub',
           position: 'right',
         },
