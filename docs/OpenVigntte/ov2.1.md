@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # 2.1 OPENING VIGNETTE: INRIX Solves Transportation Problems
 
-Let's translate `docs/intro.md` to French.
 
 ## THE PROBLEM
 
