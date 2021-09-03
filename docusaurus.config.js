@@ -85,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} 南开大学, 软件学院. Built with <a href="https://docusaurus.io/" target=_blank>Docusaurus</a>.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 南开大学, 软件学院. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -100,13 +100,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/walkman617/docusaurus-ds/blob/master/',
+            'https://github.com/walkman617/docusaurus-ds/tree/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/walkman617/docusaurus-ds/blob/master/',
+            'https://github.com/walkman617/docusaurus-ds/tree/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
