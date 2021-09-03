@@ -1,0 +1,22 @@
+---
+sidebar_position: 7
+---
+
+# Application Case 1.7
+
+## Image Analysis Helps Estimate Plant Cover
+
+Estimating how much ground is covered by green vegetation is important in analysis of a forest or even a farm. In case of a forest, such analysis helps users understand how the forest is evolving, its impact on surrounding areas, and even climate. For a farm, similar analysis can help understand likely plant growth and help estimate future crop yields. It is obviously impossible to measure all forest cover manually and is challenging for a farm. The common method is to record images of a forest/farm and then analyze these images to estimate the ground cover. Such analysis is expensive to perform visually and is also error prone. Different experts looking at the ground cover might estimate the percentage of ground covering differently. Thus, automated methods to analyze these images and estimate the percentage of ground covered by vegetation are being developed. One such method and an app to make it practical through a mobile phone has been developed at Oklahoma State University by researchers in the Department of Plant and Soil Sciences in partnership with the university’s App Center and the Information Technology group within the Division of Agricultural Sciences and Natural Resources.
+
+Canopeo is a free desktop or mobile app that estimates green canopy cover in near real-time from images taken with a smartphone or digital camera. In experiments in corn, wheat, canola, and other crops, Canopeo calculated the percentage of canopy covering dozens to thousands of times faster than existing software without sacrificing accuracy. And unlike other programs, the app can acquire and analyze video images, says Oklahoma State University (OSU) soil physicist, Tyson Ochsner—a feature that should reduce the sampling error associated with canopy cover estimates. “We know that plant cover, plant canopies, can be quite variable in space,” says Ochsner, who led the app’s development with former doctoral student Andres Patrignani, now a faculty member at Kansas State University. “With Canopeo, you can just turn on your [video] device, start walking across a portion of a field, and get results for every frame of video that you’re recording.” By using a smartphone or tablet’s digital camera, Canopeo users in the field can take photos or videos of green plants, including crops, forages, and turf, and import them to the app, which analyzes each image pixel, classifying them based on its red-green-blue (RGB) color values. Canopeo analyzes pixels based on a ratio of red to green and blue to green pixels as well as an excess green index. The result is an image where color pixels are converted into black and white with white pixels corresponding to green canopy and black pixels representing the background. Comparison tests showed that Canopeo analyzes images more quickly and just as accurately as two other available software packages.
+
+Developers of Canopeo expect the app to help producers judge when to remove grazing cattle from winter wheat in “dual-purpose” systems where wheat is also harvested for grain. Research by others at OSU found that taking cattle off fields when at least 60 percent green canopy cover remained ensured a good grain yield. “So, Canopeo would be useful for that decision,” Patrignani says. He and Ochsner also think the app could find use in turf-grass management; in assessments of crop damage from weather or herbicide drift; as a surrogate for the Normalized Difference Vegetation Index (NDVI) in fertilizer recommendations; and even in UAV-based photos of forests or aquatic systems.
+
+Analysis of images is a growing application area for deep learning as well as many other AI techniques. Chapter 9 includes several examples of image analysis that have spawned another
+term—alternative data. Applications of alternative data are emerging in many fields. Chapter 6 also highlights some applications. Imagining innovative applications by being exposed to others’ ideas is one of the main goals of this book!
+
+## Questions for DisCussion
+1. What is the purpose of knowing how much ground is covered by green foliage on a farm? In a forest?
+2. Why would image analysis of foliage through an app be better than a visual check?
+3. Explore research papers to understand the underlying algorithmic logic of image analysis. What did you learn?
+4. What other applications of image analysis can you think of?

@@ -13,3 +13,6 @@ sidebar_position: 1
 
 ## 课件
 * 下载链接：[Github](https://github.com/walkman617/DS2021)
+
+## 课程大纲
+![课程大纲](/img/tutorial/outline.jpg)
