@@ -46,8 +46,7 @@ The INRIX Traffic App (available for download at **inrix.com/mobile-apps**) is s
 As of 2016, INRIX had released an improved traffic app that uses both AI and crowdsourcing (Chapter 11) to support drivers’ decisions as to the best route to take (Korosec, 2016). The AI technology analyzes drivers’ historical activities to infer their future activities.
 
 ## QUESTIONS FOR THE OPENING VIGNETTE
-1. Explain why traffic may be down while congestion is up (see the London case at
-**inrix.com/uk-highways-agency/**).
+1. Explain how does INRIX Help Austin Improve Signal Timing During Covid? (see the case at **https://inrix.com/case-studies/inrix-helps-austin-texas-improve-signal-timing-during-covid/**).
 2. How does this case relate to decision support?
 3. Identify the AI elements in this system.
 4. Identify developments related to AI by viewing the company’s press releases from the most recent four months at **inrix.com/press-releases**. Write a report.
