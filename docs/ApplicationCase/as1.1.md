@@ -2,10 +2,9 @@
 sidebar_position: 1
 ---
 
+# Application Case 1.1 
 
-# 1.1 Making Elevators Go Faster!
-
-## Application Case
+## Making Elevators Go Faster!
 
 This story has been reported in numerous places and has almost become a classic example to explain the need for problem identification. 
 
