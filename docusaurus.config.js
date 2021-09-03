@@ -10,7 +10,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Nankai University', // Usually your GitHub org/user name.
+  organizationName: 'walkman617', // Usually your GitHub org/user name.
   projectName: 'DS2021', // Usually your repo name.
   i18n: {
     defaultLocale: "zh-Hans",
