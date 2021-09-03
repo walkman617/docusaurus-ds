@@ -2,25 +2,10 @@
 sidebar_position: 1
 ---
 
-# 1.1 OPENING VIGNETTE
-
-**How Intelligent Systems Work for KONE Elevators and Escalators Company**
-
-
-**Note:** This case is a sample of IBM Watson’s success using its cognitive buildings capability. To learn more, we suggest you view the following YouTube videos: 
-1. youtube.com/watch?v=6UPJHyiJft0 (1:31 min.) (2017); 
-2. youtube.com/watch?v=EVbd3ejEXus (2:49 min.) (2017).
-
-**QUESTIONS**: 
-1. It is said that KONE is embedding intelligence across its supply chain and enables smarter buildings. Explain.
-2. Describe the role of IoT in this case.
-3. What makes IBM Watson a necessity in this case?
-4. Check IBM Advanced Analytics. What tools were included that relate to this case?
-5. Check IBM cognitive buildings. How do they relate to this case?
+# 1.1 OPENING VIGNETTE: How Intelligent Systems Work for KONE Elevators and Escalators Company
 
 **Answer It**: [Click Here](http://nankai-cs.mikecrm.com/qi6ABxT)
 ![ov1.1](/img/ov/ov1.1.png)
-
 
 ***
 
@@ -44,3 +29,24 @@ KONE also integrates the Watson capabilities with Salesforce’s service tools (
 
 ## The results…
 KONE has minimized downtime and shortened the repair time. Obviously, elevators/ escalators users are much happier if they do not have problems because of equipment downtime, so they enjoy trouble-free rides. The prediction of “soon-to-happen” can save many problems for the equipment owners. The owners can also optimize the schedule of their own employees (e.g., cleaners and maintenance workers). All in all, the decision mak- ers at both KONE and the buildings can make informed and better decisions. Some day in the future, robots may perform maintenance and repairs of elevators and escalators.
+
+***
+
+**Note:** This case is a sample of IBM Watson’s success using its cognitive buildings capability. To learn more, we suggest you view the following YouTube videos: 
+1. youtube.com/watch?v=6UPJHyiJft0 (1:31 min.) (2017); 
+2. youtube.com/watch?v=EVbd3ejEXus (2:49 min.) (2017).
+
+**QUESTIONS**: 
+1. It is said that KONE is embedding intelligence across its supply chain and enables smarter buildings. Explain.
+2. Describe the role of IoT in this case.
+3. What makes IBM Watson a necessity in this case?
+4. Check IBM Advanced Analytics. What tools were included that relate to this case?
+5. Check IBM cognitive buildings. How do they relate to this case?
+
+**WHAT CAN WE LEARN FROM THIS VIGNETTE?**
+
+Today, intelligent technologies can embark on large-scale complex projects when they include AI combined with IoT. The capabilities of integrated intelligent platforms, such as IBM Watson, make it possible to solve problems that were economically and technologically unsolvable just a few years ago. The case introduces the reader to several of the technologies, including advanced analytics, sensors, IoT, and AI that are covered in this book. The case also points to the use of “cloud.” The cloud is used to centrally process large amounts of information using analytics and AI algorithms, involving “things” in different locations. This vignette also introduces us to two major types of analytics: predictive analytics (Chapters 4–6) and prescriptive analytics (Chapter 8).
+
+Several AI technologies are discussed: machine learning, natural language processing, computer vision, and prescriptive analysis.
+
+The case is an example of augmented intelligence in which people and machines work together. The case illustrates the benefits to the vendor, the implementing companies, and their employees and to the users of the elevators and escalators.
