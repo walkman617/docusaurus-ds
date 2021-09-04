@@ -4,11 +4,6 @@ sidebar_position: 1
 
 # 1.1 OPENING VIGNETTE: How Intelligent Systems Work for KONE Elevators and Escalators Company
 
-**Answer It**: [Click Here](http://nankai-cs.mikecrm.com/qi6ABxT)
-![ov1.1](/img/ov/ov1.1.png)
-
-***
-
 KONE is a global industrial company (based in Finland) that manufactures mostly eleva- tors and escalators and also services over 1.1 million elevators, escalators, and related equipment in several countries. The company employs over 50,000 people.
 
 
