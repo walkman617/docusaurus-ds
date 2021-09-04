@@ -2,8 +2,9 @@
 sidebar_position: 2
 ---
 
-# 2.1 OPENING VIGNETTE: INRIX Solves Transportation Problems
+# 2.1 OPENING VIGNETTE
 
+**INRIX Solves Transportation Problems**
 
 ## THE PROBLEM
 
