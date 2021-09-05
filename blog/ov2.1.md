@@ -1,17 +1,17 @@
 ---
-slug: hello-world
-title: Hello
-author: Endilie Yacop Sucipto
-author_title: Maintainer of Docusaurus
-author_url: https://github.com/endiliey
-author_image_url: https://avatars1.githubusercontent.com/u/17883920?s=460&v=4
-tags: [hello, docusaurus]
+slug: assessment
+title: 2.1 OPENING VIGNETTE
+author: Wenxuan Shi
+author_title: A.P. @ Nankai University
+author_url: https://github.com/walkman617/walkman617
+author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
+tags: [assignments, OPENING VIGNETTE]
 ---
 
-Welcome to this blog. This blog is created with [**Docusaurus 2**](https://docusaurus.io/).
+**1.1 OPENING VIGNETTE**
 
-<!--truncate-->
+VIGNETTE: [INRIX Solves Transportation Problems](/docs/OpenVigntte/ov2.1)
 
-This is a test post.
+Assignment: http://nankai-cs.mikecrm.com/2Gn3YJq
 
-A whole bunch of other information.
+![ov1.1](/img/ov/ov2.1.png)
