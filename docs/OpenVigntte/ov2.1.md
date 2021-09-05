@@ -41,17 +41,13 @@ Several of the sources of information are connected to the company via the Inter
 ## THE RESULTS
 In addition to being used by individual drivers, the processed information is shared by organizations and city planners for making planning decisions. Also, less traffic congestion has been recorded in participating cities, which results in less pollution, fewer road accidents, and increased productivity by happier employees who spend less time commuting.
 
-The INRIX Traffic App (available for download at **inrix.com/mobile-apps**) is suitable for all smartphones; it supports 10 languages, including English, French, and Spanish. For the free INRIX traffic features, see **inrixtraffic.com/features**. For interesting case studies, see **inrix.com/case-studies**.
-
 As of 2016, INRIX had released an improved traffic app that uses both AI and crowdsourcing (Chapter 11) to support drivers’ decisions as to the best route to take (Korosec, 2016). The AI technology analyzes drivers’ historical activities to infer their future activities.
 
 ## QUESTIONS FOR THE OPENING VIGNETTE
 1. Explain how does INRIX Help Austin Improve Signal Timing During Covid? (see the case at **https://inrix.com/case-studies/inrix-helps-austin-texas-improve-signal-timing-during-covid/**).
 2. How does this case relate to decision support?
 3. Identify the AI elements in this system.
-4. Identify developments related to AI by viewing the company’s press releases from the most recent four months at **inrix.com/press-releases**. Write a report.
-5. According to Gitlin (2016), INRIX’s new mobile traffic app is a threat to Waze. Explain why.
-6. Go to **sitezeus.com/data/inrix** and describe the relationship between INRIX and Zeus. View the 2:07 min. video at **sitezeus.com/data/inrix/**. Why is the system in the video called a “decision helper”?
+
 
 ## WHAT WE CAN LEARN FROM THE VIGNETTE
 The INRIX case illustrates to us how the collection and analysis of a very large amount of information (Big Data) can improve vehicles’ mobility in large cities. Specifically, by collecting information from drivers and other sources instead of only from expensive sensors, INRIX has been able to optimize mobility. This has been achieved by supporting decisions made by drivers and by analyzing traffic flows. INRIX is also using applications from the IoT to connect vehicles and devices with its computing system. This application is one of the building blocks of smart cities (see Chapter 13). The analysis of the collected data is done by using powerful algorithms, some of which are applications of AI.
