@@ -17,6 +17,7 @@ Alexander Mann is also helping its clients to install chatbots that can provide 
 
 ## Questions for Case 2.6
 1. What types of decisions are supported?
-2. Comment on the human–machine collaboration. 3. What are the benefits to recruiters? To applicants? 4. Which tasks in the recruiting process are fully
-automated?
+2. Comment on the human–machine collaboration. 
+3. What are the benefits to recruiters? To applicants? 
+4. Which tasks in the recruiting process are fully automated?
 5. What are the benefits of such automation?
