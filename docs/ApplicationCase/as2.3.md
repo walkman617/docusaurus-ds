@@ -16,7 +16,7 @@ The following companies use Google’s tools to solve the listed problem.
 5. Kewpie Food of Japan. This company detected defective potato cubes manually using a slow and expensive process. Using Google AI tools enables it to automatically monitor video feeds and alert inspectors to remove defective potatoes.
 
 
-## nQuestions for Case 2.3
+## Questions for Case 2.3
 1. Why use machine learning for predictions?
 2. Why use machine learning for detections?
 3. What specific decisions were supported in the five cases?
