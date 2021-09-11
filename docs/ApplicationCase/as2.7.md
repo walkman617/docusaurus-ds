@@ -23,6 +23,5 @@ Note: Users can interact with the system with voice powered by Nuance Communicat
 2. List the benefits to the customers.
 3. List the benefits to Kraft Foods.
 4. How is advertising done?
-5. What role is “behavioral pattern recognition”
-playing?
+5. What role is “behavioral pattern recognition” playing?
 6. Compare Kraft’s Food Assistant to Amazon.com and Netflix recommendation systems.
