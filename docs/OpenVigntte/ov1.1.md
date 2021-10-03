@@ -11,7 +11,7 @@ KONE is a global industrial company (based in Finland) that manufactures mostly 
 
 ## The problem…
 
-Over 1 billion people use the elevators and escalators manufactured and serviced by KONE every day. If equipment does not work properly, people may be late to work, can- not get home in time, and may miss important meetings and events. So, KONE’s objective is to minimize the downtime and users’ suffering.
+Over 1 billion people use the elevators and escalators manufactured and serviced by KONE every day. If equipment does not work properly, people may be late to work, cannot get home in time, and may miss important meetings and events. So, KONE’s objective is to minimize the downtime and users’ suffering.
 
 The company has over 20,000 technicians who are dispatched to deal with the elevators anytime a problem occurs. As buildings are getting higher (the trend in many places), more people are using elevators, and there is more pressure on elevators to handle the growing amount of traffic. KONE faced the responsibility to serve users smoothly and safely.
 
@@ -30,8 +30,8 @@ KONE has minimized downtime and shortened the repair time. Obviously, elevators/
 ***
 
 **Note:** This case is a sample of IBM Watson’s success using its cognitive buildings capability. To learn more, we suggest you view the following YouTube videos: 
-1. youtube.com/watch?v=6UPJHyiJft0 (1:31 min.) (2017); 
-2. youtube.com/watch?v=EVbd3ejEXus (2:49 min.) (2017).
+1. [Explore Watson at Work KONE Elevator Maintenance 360 VR](youtube.com/watch?v=6UPJHyiJft0) (1:31 min.) (2017); 
+2. [IBM and KONE: Watson IoT Gives Lift To Innovation In Smart Buildings](youtube.com/watch?v=EVbd3ejEXus) (2:49 min.) (2017).
 
 **QUESTIONS**: 
 1. It is said that KONE is embedding intelligence across its supply chain and enables smarter buildings. Explain.
