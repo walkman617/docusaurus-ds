@@ -25,7 +25,7 @@ what products you took, and your shopping trip is finished. The system will tota
 Note: Today, only few people work in the store! Employees stock shelves and assist you otherwise. The company plans to open several additional stores in 2018.
 
 ### The Technology Used
-Amazon disclosed some of the technologies used. These are deep learning algorithms, computer vision, and sensor fusion. Other technologies were not disclosed. See the video: ***youtube.com/watch?v=NrmMk1Myrxc*** (1:50 min.).
+Amazon disclosed some of the technologies used. These are deep learning algorithms, computer vision, and sensor fusion. Other technologies were not disclosed. See the video: ***[Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc)*** (1:50 min).
 
 ## Questions for Case 1.9
 1. Watch the video. What did you like in it, and what did you dislike?
