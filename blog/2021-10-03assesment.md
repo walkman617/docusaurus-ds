@@ -9,7 +9,7 @@ tags: [assignments, final score]
 ---
 
 ## 作业提交：截止日期
-1. [An Introduction to Data Science](/blog/Intro_DS)：2021年10月17日；
+1. [An Introduction to Data Science](/blog/ids)：2021年10月17日；
 2. [课后作业Ch02](/blog/ov2.1)：2021年9月21日；
 3. [课后作业Ch01](/blog/ov1.1)：2021年9月14日；
 
