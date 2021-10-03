@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 2
 ---
 
 # Application Case 1.9
@@ -18,7 +18,7 @@ Racing camels was a tradition for many generations and become a lucrative sport.
 There is a video camera that shows the people that are in cars driving alongside of the camels, what is going on in real time. The owner can provide voice commands to the camel from the car. A mechanical whip attached to the hump of the camel can be remotely operated to induce the animal.
 
 ### The Results
-The results are astonishing. Not only was the child slavery practice eliminated, but also the speed obtained by the camels increased. After all, the robots used weigh only 6 pounds and do not get tired. To see how this works watch the video at ***youtube.com/watch?v=GVeVhWXB7sk*** (2:47 min.). To view a complete race, see ***youtube.com/watch?v=xFCRhk4GYds*** (9:08 min .). You may have a chance to see the royal family when you go to the track. Finally, you can see more details in ***youtube.com/watch?v=C1uYAXJIbYg*** (8:08 min.).
+The results are astonishing. Not only was the child slavery practice eliminated, but also the speed obtained by the camels increased. After all, the robots used weigh only 6 pounds and do not get tired. To see how this works watch the video at ***[Camel racing with robotic jockeys in Dubai](https://www.youtube.com/watch?v=GVeVhWXB7sk)*** (2:47 min.). To view a complete race, see ***[Dubai Camel Race Ride-along](https://www.youtube.com/watch?v=xFCRhk4GYds)*** (9:08 min .). You may have a chance to see the royal family when you go to the track. Finally, you can see more details in ***[United Arab Emirates: Camel Race](youtube.com/watch?v=C1uYAXJIbYg)*** (8:08 min.).
 
 ## DisCussion Questions
 1. It is said that the robots eradicated the child slavery. Explain.
