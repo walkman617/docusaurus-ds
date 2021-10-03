@@ -30,8 +30,8 @@ KONE has minimized downtime and shortened the repair time. Obviously, elevators/
 ***
 
 **Note:** This case is a sample of IBM Watson’s success using its cognitive buildings capability. To learn more, we suggest you view the following YouTube videos: 
-1. [Explore Watson at Work KONE Elevator Maintenance 360 VR](youtube.com/watch?v=6UPJHyiJft0) (1:31 min.) (2017); 
-2. [IBM and KONE: Watson IoT Gives Lift To Innovation In Smart Buildings](youtube.com/watch?v=EVbd3ejEXus) (2:49 min.) (2017).
+1. [Explore Watson at Work KONE Elevator Maintenance 360 VR](https://www.youtube.com/watch?v=6UPJHyiJft0) (1:31 min.) (2017); 
+2. [IBM and KONE: Watson IoT Gives Lift To Innovation In Smart Buildings](https://www.youtube.com/watch?v=EVbd3ejEXus) (2:49 min.) (2017).
 
 **QUESTIONS**: 
 1. It is said that KONE is embedding intelligence across its supply chain and enables smarter buildings. Explain.
