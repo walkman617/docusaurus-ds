@@ -1,6 +1,6 @@
 ---
 slug: assessment
-title: 成绩考核与要求
+title: 【成绩考核与要求】
 author: Wenxuan Shi
 author_title: A.P. @ Nankai University
 author_url: https://github.com/walkman617/walkman617
@@ -9,7 +9,7 @@ tags: [assignments, final score]
 ---
 
 ## 作业提交：截止日期
-1. [An Introduction to Data Science](/blog/ids)：2021年10月17日；
+1. [DataScience思维导图](/blog/ids)：2021年10月24日；
 2. [课后作业Ch02](/blog/ov2.1)：2021年9月21日；
 3. [课后作业Ch01](/blog/ov1.1)：2021年9月14日；
 
