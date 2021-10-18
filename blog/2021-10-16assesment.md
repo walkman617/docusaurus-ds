@@ -9,9 +9,10 @@ tags: [assignments, final score]
 ---
 
 ## 作业提交：截止日期
-1. [DataScience思维导图](/blog/ids)：2021年10月24日；
-2. [课后作业Ch02](/blog/ov2.1)：2021年9月21日；
-3. [课后作业Ch01](/blog/ov1.1)：2021年9月14日；
+1. [DataScience认证](/blog/ibm)：2021年11月30日；
+2. [DataScience思维导图](/blog/ids)：2021年10月24日；
+3. [课后作业Ch02](/blog/ov2.1)：2021年9月21日；
+4. [课后作业Ch01](/blog/ov1.1)：2021年9月14日；
 
 
 ## 注意
