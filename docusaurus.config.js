@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'walkman617', // Usually your GitHub org/user name.
-  projectName: 'DS2021', // Usually your repo name.
+  projectName: 'DS2022', // Usually your repo name.
   i18n: {
     defaultLocale: "zh-Hans",
     locales: ["zh-Hans"]
@@ -32,7 +32,7 @@ module.exports = {
         },
         {to: '/blog', label: '作业与要求', position: 'left'},
         {
-          href: 'https://github.com/walkman617/DS2021',
+          href: 'https://github.com/walkman617/DS2022',
           label: 'GitHub',
           position: 'right',
         },
@@ -80,7 +80,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/walkman617/DS2021',
+              href: 'https://github.com/walkman617/DS2022',
             },
           ],
         },
