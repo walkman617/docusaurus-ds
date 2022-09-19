@@ -13,8 +13,8 @@ module.exports = {
   organizationName: 'walkman617', // Usually your GitHub org/user name.
   projectName: 'DS2022', // Usually your repo name.
   i18n: {
-    defaultLocale: "",
-    locales: [""]
+    defaultLocale: "EN",
+    locales: ["EN"]
   },
   themeConfig: {
     navbar: {
