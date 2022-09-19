@@ -8,12 +8,7 @@ author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
 tags: [assignments, final score]
 ---
 
-## 作业提交：截止日期
-1. [DataScience认证](/blog/ibm)：TBD；
-2. [课后作业Ch02](/blog/ov2.1)：TBD；
-3. [课后作业Ch01](/blog/ov1.1)：TBD；
 
-
-## 注意
-- 每次作业的提交截止日期非常关键！！
+## 注意事项
+- 每次作业的**提交截止日期**非常关键！！
 - 延迟提交会有比较重的扣分。
