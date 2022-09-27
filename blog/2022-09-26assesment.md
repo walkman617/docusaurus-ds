@@ -14,5 +14,5 @@ tags: [assignments, final score]
 - 延迟提交会有比较重的扣分。
 
 ## 作业提交截止日期
-- 2022年10月3日（23:59:59前）：[学习 “设计思维” 先导课程](/blog/IBM-DesignThinking)
 - 2022年9月30日（23:59:59前）：[注册IBM产业技能学院](/blog/IBM-SA)
+- 2022年10月3日（23:59:59前）：[学习 “设计思维” 先导课程](/blog/IBM-DesignThinking)
