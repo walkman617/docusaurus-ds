@@ -16,3 +16,4 @@ tags: [assignments, final score]
 ## 作业提交截止日期
 - 2022年9月30日（23:59:59前）：[注册IBM产业技能学院](/blog/IBM-SA)
 - 2022年10月3日（23:59:59前）：[学习 “设计思维” 先导课程](/blog/IBM-DesignThinking)
+- 2022年10月11日（23:59:59前）：[看电影 《模拟游戏》](/blog/theImitationGame)
