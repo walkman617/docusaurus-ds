@@ -7,7 +7,7 @@ sidebar_position: 4
 ## Improving Student Retention with Data-Driven Analytics
 Student attrition has become one of the most challenging problems for decision makers in academic institutions...
 
-**See: [Application Case](https://github.com/walkman617/DS2022/tree/main/ApplicationCase)**
+**See: [Application Case](https://docs.qq.com/pdf/DYmJUakNvQXlHSnFL)**
 
 
 

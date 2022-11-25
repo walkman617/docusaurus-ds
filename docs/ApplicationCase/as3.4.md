@@ -7,7 +7,7 @@ sidebar_position: 5
 ## Predicting NCAA Bowl Game Outcomes
 Predicting the outcome of a college football game (or any sports game, for that matter) is an interesting and challenging problem...
 
-**See: [Application Case](https://github.com/walkman617/DS2022/tree/main/ApplicationCase)**
+**See: [Application Case](https://docs.qq.com/pdf/DYmVpVGZEamRMa1Zy)**
 
 
 
