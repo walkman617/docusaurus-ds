@@ -21,5 +21,5 @@ While such an unrestricted application of deep learning (i.e., spying on citizen
 
 ## Questions for Case 6.6
 1. What are the technical challenges in face recognition?
-2. Beyondsecurityandsurveillancepurposes,where else do you think face recognition can be used?
+2. Beyond security and surveillance purposes, where else do you think face recognition can be used?
 3. What are the foreseeable social and cultural problems with developing and using face recognition technology?
