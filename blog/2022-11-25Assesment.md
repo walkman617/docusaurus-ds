@@ -21,4 +21,4 @@ tags: [assignments, final score]
 - 2022年10月20日（23:59:59前）：[注册 "Data Science Practitioners" 课程](/blog/IBM-DS-R)
 - 2022年11月13日（23:59:59前）：[学习 "Data Science Practitioners" 课程](/blog/IBM-DS-L)
 - 2022年11月21日（23:59:59前）：[参加 IBM 技术认证考试](/blog/IBM-DS-E)
-- 2022年12月30日（23:59:59前）：[课程报告](/blog/FinalReport)
+- 2022年12月30日（23:59:59前）：[学期课程报告](/blog/FinalReport)
