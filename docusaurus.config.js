@@ -32,7 +32,7 @@ module.exports = {
         },
         {to: '/blog', label: '作业与要求', position: 'left'},
         {
-          href: 'https://docs.qq.com/s/G2fHYDZxfFYvZXiZ3inc1G',
+          href: 'https://docs.qq.com/s/IgAWqwrg3lb5GPIYDCReWG',
           label: '课件',
           position: 'right',
         },
@@ -72,15 +72,19 @@ module.exports = {
           ],
         },
         {
-          title: '更多',
+          title: '参考资源',
           items: [
             {
-              label: '作业与要求',
-              to: '/blog',
+              label: 'Data Science Central',
+              href: 'https://www.datasciencecentral.com/',
             },
             {
-              label: '课件下载',
-              href: 'https://docs.qq.com/s/G2fHYDZxfFYvZXiZ3inc1G',
+              label: 'Data Science For Beginners',
+              href: 'https://ds4b.nkugame.com/',
+            },
+            {
+              label: 'OpenDS4All',
+              href: 'https://github.com/odpi/OpenDS4All',
             },
           ],
         },

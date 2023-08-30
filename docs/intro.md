@@ -13,7 +13,7 @@ sidebar_position: 1
 
 
 ## 课件
-* 课件：[下载](https://docs.qq.com/s/G2fHYDZxfFYvZXiZ3inc1G)
+* 课件：[下载](https://docs.qq.com/s/IgAWqwrg3lb5GPIYDCReWG)
 
 ## 课程大纲
 ![课程大纲](/img/tutorial/outline.jpg)
