@@ -14,4 +14,4 @@ tags: [assignments]
 - 延迟提交会有比较重的扣分。
 
 ## 作业提交截止日期
-- To Be Determined
+- 2023年09月24日（23:59:59前）：[为什么鸡蛋不能放在同一个篮子里？](/blog/Problem1)
