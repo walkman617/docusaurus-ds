@@ -32,7 +32,7 @@ module.exports = {
         },
         {to: '/blog', label: '作业与要求', position: 'left'},
         {
-          href: 'https://docs.qq.com/s/IgAWqwrg3lb5GPIYDCReWG',
+          href: 'https://docs.qq.com/s/u_BsIYlP-jh4ptyuXVRFta',
           label: '课件',
           position: 'right',
         },
@@ -58,12 +58,8 @@ module.exports = {
           title: '实践',
           items: [
             {
-              label: 'IBM Academic Initiative',
+              label: 'IBM SkillsBuild',
               href: 'https://www.ibm.com/academic/home',
-            },
-            {
-              label: 'IBM Skills Academy',
-              href: 'https://skills-academy.comprehend.ibm.com/?r',
             },
             {
               label: 'Design Thinking',
@@ -77,14 +73,6 @@ module.exports = {
             {
               label: 'Data Science Central',
               href: 'https://www.datasciencecentral.com/',
-            },
-            {
-              label: 'Data Science For Beginners',
-              href: 'https://ds4b.nkugame.com/',
-            },
-            {
-              label: 'OpenDS4All',
-              href: 'https://github.com/odpi/OpenDS4All',
             },
           ],
         },
