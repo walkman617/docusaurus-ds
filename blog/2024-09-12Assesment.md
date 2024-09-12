@@ -14,3 +14,4 @@ tags: [assignments]
 - 延迟提交会有比较重的扣分。
 
 ## 作业(To be determined)
+- 2024年09月13日（23:59:59前）：[为什么鸡蛋不能放在同一个篮子里？](/blog/Problem1)
