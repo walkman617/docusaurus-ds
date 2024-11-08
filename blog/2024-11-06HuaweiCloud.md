@@ -10,7 +10,7 @@ tags: [assignments]
 
 
 ## 1）注册华为云账号
-操作步骤：[华为云代金券申请指南（学生侧）](https://docs.qq.com/pdf/DYkdtaFF1bUZ6a1FB?)
+操作步骤：[华为云代金券申请指南（学生侧）](https://docs.qq.com/pdf/DYnBnVXNqdExmY0pv)
 
 
 ## 2）填写账号信息
