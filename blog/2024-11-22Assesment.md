@@ -14,6 +14,7 @@ tags: [assignments]
 - 延迟提交会有比较重的扣分。
 
 ## 作业
+- 2024年11月30日（23:59:59前）：[基于FunctionGraph的AI风格化编程](/blog/Problem5)
 - 2024年11月15日（23:59:59前）：[基于PyTorch的手写体识别](/blog/Problem4)
 - 2024年11月8日（23:59:59前）：[申请华为云代金券](/blog/HuaweiCloud)
 - 2024年10月24日（23:59:59前）：[神经网络游乐场](/blog/Problem3)
